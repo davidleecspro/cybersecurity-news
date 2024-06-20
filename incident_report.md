@@ -6,7 +6,7 @@
 
 David Lee, the Chief Security Officer at CyberDefenders, led the response efforts. "Our team worked tirelessly to contain the breach and secure the compromised systems," Lee said. "We are committed to protecting our clients from these types of malicious activities."
 
-The investigation revealed that the attack was orchestrated by a group of cybercriminals with advanced skills in network infiltration. While no specific names have been officially disclosed, sources close to the investigation hint at the involvement of a known cybercriminal with the initials M.J., who has a history of targeting healthcare providers.
+The investigation revealed that the attack was orchestrated by a group of cybercriminals with advanced skills in network infiltration. While no specific names have been officially disclosed, sources close to the investigation hint at the involvement of a known cybercriminal with nickname like Z****nry Wi**a(FBA), who has a history of targeting healthcare providers.
 
 David Lee emphasized the importance of robust security measures and constant vigilance in the fight against cyber threats. "This incident underscores the need for comprehensive security protocols and rapid response capabilities," he stated.
 
